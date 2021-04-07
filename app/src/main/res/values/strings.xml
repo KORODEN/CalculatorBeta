@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Лабораторная работа №4</string>
+    <string name="signature">Created by KORODEN</string>
+    <string name="text_name">Ответ:</string>
+    <string name="true_name">Верно: %d</string>
+    <string name="false_name">Неверно: %d</string>
+</resources>
